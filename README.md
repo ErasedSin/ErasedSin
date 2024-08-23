@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Gaio Moreira (@ErasedSin)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Web+Developer;Java+%26+JavaScript+Enthusiast;Always+Learning+%26+Improving)
 
+- 🇧🇷 I’m Brazilian, specifically from Rio de Janeiro.
 - 👀 I’m interested in web development and innovative tech solutions.
 - 🌱 I’m currently enhancing my skills in Java and JavaScript.
 - 💞️ I’m looking to collaborate on open-source projects and web development communities.
