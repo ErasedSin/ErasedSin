@@ -16,8 +16,8 @@
 ## My Portfolio
 Check out my portfolio [here](https://seu-link-do-portfolio).
 
-![Java](https://img.shields.io/badge/Java-Expert-brightgreen?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 📈 GitHub Stats
 ![ErasedSin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErasedSin&show_icons=true&theme=dark)
