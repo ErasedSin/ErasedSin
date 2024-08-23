@@ -12,16 +12,16 @@
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ErasedSin&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=ErasedSin&color=0A66C2)
 
 ## My Portfolio
 Check out my portfolio [here](https://erasedsin.github.io/Profile/).
 
-![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-00FF00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-00FF00?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## 📈 GitHub Stats
-![ErasedSin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErasedSin&show_icons=true&theme=dark)
+![ErasedSin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErasedSin&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gmoreira777)
