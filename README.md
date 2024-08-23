@@ -14,7 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ErasedSin&color=green)
 
 ## My Portfolio
-Check out my portfolio [here](https://seu-link-do-portfolio).
+Check out my portfolio [here(https://erasedsin.github.io/Profile/)].
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-brightgreen?style=for-the-badge&logo=javascript&logoColor=white)
